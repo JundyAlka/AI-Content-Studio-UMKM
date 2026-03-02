@@ -1,5 +1,7 @@
 # 🤖 AI Content Studio UMKM
 
+![App Banner](assets/images/app_thumbnail.png)
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![State Management](https://img.shields.io/badge/Riverpod-774976?style=for-the-badge&logo=riverpod&logoColor=white)](https://riverpod.dev)
 [![AI](https://img.shields.io/badge/Powered%20By-Gemini%20%26%20Stability-orange?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
