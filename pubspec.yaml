@@ -1,0 +1,46 @@
+name: ai_content_studio_umkm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+  go_router: ^13.2.0
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.6.9
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  shimmer: ^3.0.0
+  uuid: ^4.3.3
+  shared_preferences: ^2.2.2
+  http: ^1.2.1
+  flutter_animate: ^4.5.0
+  google_generative_ai: ^0.4.7
+  fl_chart: ^1.1.1
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.9.0
+  google_sign_in: 6.2.1
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.8
+  riverpod_generator: ^2.4.0
+  freezed: ^3.0.6
+  json_serializable: ^6.9.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/ # Rebuild assets
+    - .env
